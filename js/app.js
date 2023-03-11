@@ -1,3 +1,4 @@
+// Parallax 1
 let stars = document.getElementById('stars');
 let moon = document.getElementById('moon');
 let mountains_behind = document.getElementById('mountains_behind');
@@ -17,3 +18,4 @@ window.addEventListener('scroll', function() {
 	btn.style.marginTop = value * 1.5 + 'px';
 	header.style.top = value * 0.5 + 'px';
 })
+

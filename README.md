@@ -4,4 +4,4 @@
 # Огляд
 Я поки створив три паралакса
 
-(D:\Projects\My\Parallax Scrolling Website\img\align-center-h.svg)
+<img src="(D:\Projects\My\Parallax Scrolling Website\img\align-center-h.svg" alt="Опис зображення" width="500"/>

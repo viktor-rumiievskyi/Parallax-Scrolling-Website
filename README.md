@@ -4,4 +4,4 @@
 # Огляд
 Я поки створив три паралакса
 
-![cdsc](D:\Projects\My\Parallax Scrolling Website\img\align-center-h.svg)
+(D:\Projects\My\Parallax Scrolling Website\img\align-center-h.svg)

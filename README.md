@@ -4,4 +4,4 @@
 # Огляд
 Я поки створив три паралакса
 
-<img src="(/img\align-center-h.svg" alt="Опис зображення" width="500"/>
+<img src="(./img\align-center-h.svg" alt="Опис зображення" width="500"/>
